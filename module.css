@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .ANM{
+
+
+    animation: omarAnimation 3s ;
+
+  }
+  @keyframes omarAnimation {
+  
+    from {
+  
+      opacity: 0;
+      transform: matrix(80, -0.9, 5, 7, 10, 9);
+      
+  }
+  
+  50%{
+    opacity: 4;
+    transform: skew(720deg);
+  }
+  
+  
+  100% {
+  
+      opacity: 8;
+      transform: rotate(720deg);
+  
+  }
+
+}
+
+.c,.d {
+        
+  line-height: 125px;
+}
+.e,.f,.g,.h {
+  line-height: 250px;
+}
