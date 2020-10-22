@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
+    background-color: rgb(134, 130, 123);
 }
+
+
 
 
 @media (max-width: 960px){
@@ -15,17 +18,3 @@
 
 }
 
-/* 
-@media(min-width: 768px){
-
-    body{
-        width: 962px;
-        margin: auto;
-        padding: auto;
-
-    }
-    main{
-        display: flex;
-        box-sizing: border-box;
-    }
-} */
